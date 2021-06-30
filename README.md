@@ -1,0 +1,3 @@
+# jquery slider
+
+to run 
